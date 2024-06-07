@@ -13,9 +13,10 @@ Install the required packages using pip:
 
 ```sh
 pip install requests beautifulsoup4
-
+```
 
 ## Usage
 Run the script and enter the name of the city when prompted.
-
+```
 python weather_scraper.py
+```
