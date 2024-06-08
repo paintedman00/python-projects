@@ -7,16 +7,14 @@ Welcome to my Python Projects repository! This repository contains a collection 
 Here you will find scripts and tools I've developed as part of my journey to learn and master Python. These projects span a wide range of topics, including but not limited to:
 
 - File format conversion
-- Domain information retrieval
 - Image metadata extraction
 - File hash generation
 
 ## Projects Included
 
 1. **JSON to YAML Converter**
-2. **Domain Info Tools**
-3. **Image Metadata Extractor**
-4. **File Hash Generator**
+2. **Image Metadata Extractor**
+3. **File Hash Generator**
 
 Each project is contained within its own directory and includes detailed instructions on usage and requirements.
 
